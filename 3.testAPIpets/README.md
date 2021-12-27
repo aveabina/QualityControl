@@ -16,10 +16,17 @@
 
 ![get_list](https://user-images.githubusercontent.com/91433112/147474376-9aaccfa0-915a-49b2-b593-6912cd1939e9.png)
 
-Добавление информации о питомце:
+Добавление питомца:
 
-![putinfo](https://user-images.githubusercontent.com/91433112/147474347-9ff5cb83-aab1-4346-ba3b-f41e485b0240.png)
+![pet](https://user-images.githubusercontent.com/91433112/147475988-63f4373f-b7b0-4496-ac31-3ffde74a21c8.png)
+
 
 Добавление нового питомца с фото:
 
 ![postinfopet](https://user-images.githubusercontent.com/91433112/147474334-5088bd3c-1d62-4f3e-978c-efe6dd44d702.png)
+
+
+Добавление информации о питомце:
+
+![putinfo](https://user-images.githubusercontent.com/91433112/147474347-9ff5cb83-aab1-4346-ba3b-f41e485b0240.png)
+
